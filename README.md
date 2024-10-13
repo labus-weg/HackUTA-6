@@ -65,9 +65,9 @@ We’re excited about the future! Here’s what’s on our radar:
 
 ## **Tech Stack**
 Here’s what we used to build this project:
-- **Languages**: Python, JavaScript
+- **Languages**: Python
 - **Frameworks**: Streamlit
-- **Libraries**: Pandas, Scikit-learn, TensorFlow (if applicable)
+- **Libraries**: Pandas, Matplotlib, Seaborn
 - **Tools**: GitHub, Codespaces, Jupyter Notebooks
 
 ## **Installation Instructions**
